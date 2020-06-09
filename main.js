@@ -19,9 +19,11 @@ console.log(totalCars.lastIndexOf("Ford"));
 //6. join 
 
 let stringOfCars = totalCars.join()
+console.log(stringOfCars)
 
 //7. split
 let totalCars= stringOfCars.split("")
+console.log(totalCars)
 
 //8. reverse
 
